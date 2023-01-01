@@ -1,0 +1,7 @@
+Algorithm,Obs_500,Obs_1500,Obs_5000,Obs_15000
+Add_edge_CB,25.7,28.3,29.4,30.3
+Remove_edge_CB,19.7,22.8,25.1,25.7
+Reverse_edge_CB,28.7,34,39.2,44.3
+Add_edge_PC,136.9,172.1,209.5,244.8
+Remove_edge_PC,65.5,87.3,111,118.9
+Reverse_edge_PC,67.4,83.3,115.3,126.4
